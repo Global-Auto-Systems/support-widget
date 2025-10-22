@@ -17,7 +17,7 @@ To install the widget on a client's website, you must:
     ```html
     <!-- GAS Support Widget -->
     <script 
-        src="httpsA://[your-server-or-cdn.com/support-widget.js](https://your-server-or-cdn.com/support-widget.js)" 
+        src="https://cdn.jsdelivr.net/gh/Global-Auto-Systems/support-widget/support-widget.js" 
         data-client-name="YOUR_CLIENT_NAME_HERE" 
         data-client-email="YOUR_CLIENT_EMAIL_HERE"
         defer

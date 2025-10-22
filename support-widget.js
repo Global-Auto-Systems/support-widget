@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // We inject this into the <head> to style our widget and avoid conflicts
     const styles = `
         :root {
-            --sw-primary-color: #007bff;
+            --sw-primary-color: #28a745;
             --sw-white-color: #ffffff;
             --sw-text-color: #333;
             --sw-light-gray: #f4f4f4;
